@@ -1,0 +1,39 @@
+@import '../../mq';
+
+@media #{$tabletPortrait} {
+    @import '../mobile';
+  	& {
+        .quality-block{
+            display: none;
+        }
+        .center-img{
+            display: none;
+        }
+        .header-menu{
+            display: none;
+        }
+        .quality-list{
+            display: block;
+        }
+        .form-block{
+            display: block;
+        }
+        .number{
+            font-size: 12px;
+        }
+        .search{
+            input[type="submit"]{
+                display: none;
+            }
+        }
+        .tabs span{
+            max-width: 320px;
+            width: 100%;
+            display: block;
+            margin: 0 auto;
+        }
+        .price a{
+            padding: 6px 15px;
+        }
+	}
+}
