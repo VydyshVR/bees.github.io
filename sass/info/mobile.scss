@@ -1,0 +1,97 @@
+& {
+    .header-top{
+        display: none;
+    }
+    .number{
+        margin-top: 15px;
+    }
+    .bascet{
+        float: none;
+        margin: 0 auto;
+        padding-bottom: 15px;
+    }
+    .piple{
+        float: none;
+        margin: 0 auto;
+    }
+    .header-menu{
+        display: none;
+    }
+    .slayd-text{
+        font-size: 45px;
+        span{
+            font-size: 45px;
+        }
+    }
+    .slyder{
+        padding-bottom: 50px;
+    }
+    .carts{
+        margin: 0 auto;
+    }
+    .tabs span{
+            max-width: 320px;
+            width: 100%;
+            display: block;
+            margin: 0 auto;
+        }
+    .form-block h3{
+        text-align: center;
+    }
+    .form-block{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .form-block input{
+        margin-bottom: 25px;
+    }
+    .btn-sing{
+        margin: 0 auto;
+    }
+    .tab_content{
+        padding-bottom: 0;
+    }
+    .footer-logo{
+        text-align: center;
+    }
+    .footer-insta{
+        text-align: center;
+    }
+    #adapt{background:#efaa38;line-height:45px;position:relative;color:#000;
+        max-width: 550px;
+        width: 100%;
+        margin: 0 auto;
+        border-radius: 0 40px;
+    }
+ 
+.menu-title:after{content:"МЕНЮ";position:absolute;top:0px;right:-45px;color:#fff;line-height:35px;}
+.menu-title{
+    position:relative;
+    background:url(../images/icons8-menu-24.png)no-repeat center;
+    width:30px;
+    margin-left: 25px;
+    padding-left: 60px;
+    height:35px;
+    font-size: 18px;
+    margin:0 auto;}
+ 
+.menu-body{position:relative;z-index:2;margin-top:10px;
+    color: #000000;
+    font-family: 'Comfortaa';
+    font-size: 17px;
+    font-weight: 700;
+    list-style: none;
+    line-height: 20px;
+    ul{
+        list-style: none;
+    }
+    a{
+        color: #000;
+    }
+}
+    
+.menu-body li{line-height:35px;}
+    #adapt{display:block;}
+    #adapt{display:block;}
+#menu{display:none;}
+}
